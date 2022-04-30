@@ -1,2 +1,2 @@
 # PHP-FIRESTORE_CRUD
- PHP CRUD useing firestore DB
+ PHP CRUD using firestore DB
